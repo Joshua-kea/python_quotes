@@ -22,4 +22,4 @@ QUOTES = [
 ]
 
 def main() -> None:
-    print(random.choice)
+    print(random.choice(QUOTES))
